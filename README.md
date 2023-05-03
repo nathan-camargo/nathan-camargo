@@ -23,7 +23,7 @@ Olá, sou [Seu Nome], um desenvolvedor Full-stack apaixonado por desenvolvimento
 
 Estou sempre em busca de novas oportunidades e adoraria ouvir sobre possíveis colaborações, estágios ou propostas que me permitam contribuir e crescer junto às equipes e empresas. Entre em contato comigo:
 
-- 📧 E-mail: [nathancamargoo11@gmail.com](mailto:nathancamargoo11@gmail.com)
-- 💼 LinkedIn: [[linkedin.com/in/nathan-camargo-2aaa84212/](linkedin.com/in/nathan-camargo-2aaa84212/)](https://www.linkedin.com/in/nathan-camargo-2aaa84212/)
+- 📧 E-mail: [Clique aqui](mailto:nathancamargoo11@gmail.com)
+- 💼 LinkedIn: [Clique aqui](linkedin.com/in/nathan-camargo-2aaa84212/)
 
 Obrigado por visitar meu perfil! Não deixe de conferir meus repositórios e deixar suas estrelas se gostar dos projetos. 😉
