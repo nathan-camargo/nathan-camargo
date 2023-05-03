@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu GitHub!
 
-Olá, sou [Seu Nome], um desenvolvedor Full-stack apaixonado por desenvolvimento web e sempre em busca de novos desafios. Neste README, apresento um pouco sobre mim e os projetos mais interessantes que realizei. Se você é um recrutador, espero que encontre algo que chame sua atenção!
+Olá, sou Nathan! Um desenvolvedor Full-stack apaixonado por desenvolvimento web e sempre em busca de novos desafios. Neste README, apresento um pouco sobre mim e os projetos mais interessantes que realizei. Se você é um recrutador, espero que encontre algo que chame sua atenção!
 
 ## 🚀 Habilidades e Tecnologias
 
@@ -12,7 +12,7 @@ Olá, sou [Seu Nome], um desenvolvedor Full-stack apaixonado por desenvolvimento
 
 1. **KPIs e Dashboards Inovadores** - Projeto no qual liderei o desenvolvimento, utilizando React, HTML, CSS, JavaScript e Razor para criar soluções de alto impacto na visualização e análise de dados. [Repositório privado]
 
-2. **Sistema de Gerenciamento de Pedidos** - Desenvolvi um sistema completo de gerenciamento de pedidos utilizando ASP.NET Core MVC, AJAX, jQuery, MySQL e Oracle, que ajudou a otimizar processos e melhorar a produtividade. [Repositório](https://github.com/warlockspectre/pizzariab7web)
+2. **Sistema de Gerenciamento de Pedidos** - Desenvolvi um sistema completo de gerenciamento de pedidos utilizando HTML, CSS e JS e consumindo uma API local em JSON. [Repositório](https://github.com/warlockspectre/pizzariab7web)
 
 ## 📚 Formação e Experiência
 
