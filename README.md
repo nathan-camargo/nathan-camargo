@@ -10,7 +10,7 @@ Olá, sou [Seu Nome], um desenvolvedor Full-stack apaixonado por desenvolvimento
 
 ## 🌟 Projetos em destaque
 
-1. **KPIs e Dashboards Inovadores** - Projeto no qual liderei o desenvolvimento, utilizando React, HTML, CSS, JavaScript e Razor para criar soluções de alto impacto na visualização e análise de dados. [Repositório](link_do_repositorio)
+1. **KPIs e Dashboards Inovadores** - Projeto no qual liderei o desenvolvimento, utilizando React, HTML, CSS, JavaScript e Razor para criar soluções de alto impacto na visualização e análise de dados. [Repositório privado]
 
 2. **Sistema de Gerenciamento de Pedidos** - Desenvolvi um sistema completo de gerenciamento de pedidos utilizando ASP.NET Core MVC, AJAX, jQuery, MySQL e Oracle, que ajudou a otimizar processos e melhorar a produtividade. [Repositório](https://github.com/warlockspectre/pizzariab7web)
 
@@ -23,7 +23,7 @@ Olá, sou [Seu Nome], um desenvolvedor Full-stack apaixonado por desenvolvimento
 
 Estou sempre em busca de novas oportunidades e adoraria ouvir sobre possíveis colaborações, estágios ou propostas que me permitam contribuir e crescer junto às equipes e empresas. Entre em contato comigo:
 
-- 📧 E-mail: [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin/)
+- 📧 E-mail: [nathancamargoo11@gmail.com](mailto:seuemail@email.com)
+- 💼 LinkedIn: [[linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/nathan-camargo-2aaa84212/)](https://www.linkedin.com/in/seu-linkedin/)
 
 Obrigado por visitar meu perfil! Não deixe de conferir meus repositórios e deixar suas estrelas se gostar dos projetos. 😉
